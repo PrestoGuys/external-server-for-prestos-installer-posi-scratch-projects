@@ -1,2 +1,0 @@
-# POSI External Server
-
